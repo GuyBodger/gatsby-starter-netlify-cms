@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: Web About our values
+title: Web  About our values
 ---
 ### Testing Shade-grown coffee
 
